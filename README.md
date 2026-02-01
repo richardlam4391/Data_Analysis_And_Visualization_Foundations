@@ -36,6 +36,15 @@ The Data Analysis and Visualization Specialization Foundation is an online cours
 
 -Data Visualization Software
 
+## Tools
+- Dashboard
+
+- Tree Maps
+
+- Microosft Excel
+
+- Apache Hadoop
+
 ## Chapters
 Chapter 1: [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=data-analysis-visualization-foundations)
 
