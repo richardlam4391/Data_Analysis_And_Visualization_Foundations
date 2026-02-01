@@ -46,10 +46,10 @@ The Data Analysis and Visualization Specialization Foundation is an online cours
 - Apache Hadoop
 
 ## Chapters
-Chapter 1: [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=data-analysis-visualization-foundations)
+- Chapter 1: [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=data-analysis-visualization-foundations)
 
-Chapter 2: [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=data-analysis-visualization-foundations)
+- Chapter 2: [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=data-analysis-visualization-foundations)
 
-Chapter 3: [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=data-analysis-visualization-foundations)
+- Chapter 3: [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=data-analysis-visualization-foundations)
 
-Chapter 4: [Assessment for Data Analysis and Visualization Foundations](https://www.coursera.org/learn/data-analysis-visualization-foundations-assessment?specialization=data-analysis-visualization-foundations)
+- Chapter 4: [Assessment for Data Analysis and Visualization Foundations](https://www.coursera.org/learn/data-analysis-visualization-foundations-assessment?specialization=data-analysis-visualization-foundations)
