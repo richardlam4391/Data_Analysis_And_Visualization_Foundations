@@ -4,46 +4,46 @@
 The Data Analysis and Visualization Specialization Foundation is an online course program that helps the learners to enhance the data science career role. The learners know how to analyze data with Excel, and to make data visualizations and to make interactive dashboards with Cognos and/or Looker Studio. There are 4 chapters in this online course program. 
 
 ## Key Skills
--Data Presentation
+- Data Presentation
 
--Interactive Data Visualization
+- Interactive Data Visualization
 
--Looker (Software)
+- Looker (Software)
 
--Data Cleansing 
+- Data Cleansing 
 
--Data Analysis
+- Data Analysis
 
--Big Data
+- Big Data
 
--Statistical Analysis
+- Statistical Analysis
 
--Scatter Plots
+- Scatter Plots
 
--Data Visualization
+- Data Visualization
 
--Statistical Visualization
+- Statistical Visualization
 
--Excel Formulas
+- Excel Formulas
 
--IBM Cognos Analytics
+- IBM Cognos Analytics
 
--Data Storytelling
+- Data Storytelling
 
--Spreadsheet Software
+- Spreadsheet Software
 
--Analytical Skills
+- Analytical Skills
 
--Data Visualization Software
+- Data Visualization Software
 
 ## Tools
--Dashboard
+- Dashboard
 
--Tree Maps
+- Tree Maps
 
--Microosft Excel
+- Microosft Excel
 
--Apache Hadoop
+- Apache Hadoop
 
 ## Chapters
 Chapter 1: [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=data-analysis-visualization-foundations)
