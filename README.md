@@ -8,7 +8,9 @@ The Data Analysis and Visualization Specialization Foundation is an online cours
 
 - Interactive Data Visualization
 
-- Looker (Software)
+- Looker Studio (Software)
+
+- Tableau
 
 - Data Cleansing 
 
