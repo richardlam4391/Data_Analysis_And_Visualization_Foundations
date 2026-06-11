@@ -8,7 +8,7 @@
 
 - Data Visualization and Dashboards with Excel and Cognos
 
-- Assessment for Data Analysis and Visualization Foundations
+- [Assessment for Data Analysis and Visualization Foundations](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Assessment%20for%20Data%20Analysis%20and%20Visualization%20Foundations)
 
 ## Professional Certificate
 The Data Analysis and Visualization Specialization Foundation is an online course program that helps the learners to enhance the data science career role. The learners know how to analyze data with Excel, and to make data visualizations and to make interactive dashboards with Cognos and/or Looker Studio. There are 4 chapters in this online course program. 
@@ -56,12 +56,3 @@ The Data Analysis and Visualization Specialization Foundation is an online cours
 - Microosft Excel
 
 - Apache Hadoop
-
-## Chapters
-- Chapter 1: [Introduction to Data Analytics](https://www.coursera.org/learn/introduction-to-data-analytics?specialization=data-analysis-visualization-foundations)
-
-- Chapter 2: [Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=data-analysis-visualization-foundations)
-
-- Chapter 3: [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/learn/data-visualization-dashboards-excel-cognos?specialization=data-analysis-visualization-foundations)
-
-- Chapter 4: [Assessment for Data Analysis and Visualization Foundations](https://www.coursera.org/learn/data-analysis-visualization-foundations-assessment?specialization=data-analysis-visualization-foundations)
