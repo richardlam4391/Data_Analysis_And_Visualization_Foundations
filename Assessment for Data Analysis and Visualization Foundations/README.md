@@ -14,10 +14,12 @@ This course tells you how to preare for the assessment test in data analysis and
 
 - Dashboard
 
-- DAta Cleansing
+- Data Cleansing
 
 - Microsoft Excel
 
 - Data Visualization Software
 
-- Analytical IBM Cognos Analytics 
+- Analytical IBM Cognos Analytics
+
+- Tableau
