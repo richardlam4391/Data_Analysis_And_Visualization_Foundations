@@ -5,11 +5,11 @@ The Data Analysis and Visualization Specialization Foundation is an online cours
 
 ## Course Topics 
 
-- [Introduction to Data Analystics](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Introduction%20to%20Data%20Analytics)
+- [Introduction to Data Analystics](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Introduction%20to%20Data%20Analytics)
 
-- [Excel Basics for Data Analysis](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel%20Basics%20for%20Data%20Analysis)
+- [Excel Basics for Data Analysis](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Excel%20Basics%20for%20Data%20Analysis)
 
-- [Data Visualization and Dashboards with Excel and Cognos](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel%20Basics%20for%20Data%20Analysis)
+- [Data Visualization and Dashboards with Excel and Cognos](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
 
 - [Assessment for Data Analysis and Visualization Foundations](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Assessment%20for%20Data%20Analysis%20and%20Visualization%20Foundations)
 
