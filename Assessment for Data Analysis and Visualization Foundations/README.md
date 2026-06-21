@@ -14,7 +14,6 @@ This directory serves as the comprehensive technical assessment and capstone env
 
 ## 🛠️ Technical Skills & Competency Matrix
 
-## Enterprise Business Intelligence (Tableau & IBM Cognos)
 *   **Interactive Design (Tableau):** Implementing dynamic context filters, user-driven parameters, and custom tooltips to build highly responsive, clutter-free dashboards.
 *   **Governed Metadata Modeling (IBM Cognos):** Constructing secure data modules, establishing deterministic relationships, and verifying calculation integrity to support standardized corporate auditing.
 
