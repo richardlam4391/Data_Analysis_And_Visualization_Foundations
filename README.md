@@ -31,4 +31,4 @@ The focus of this repository is to showcase my ability to take raw datasets, cle
 | **01** | Introduction to Data Analytics | ✅ Completed in March 2025 |
 | **02** | Excel Basics for Data Analysis | ✅ Completed in March 2025 |
 | **03** | Data Visualization & Dashboards with Excel & Cognos | ✅ Completed in April 2025 |
-| **04** | Assessment for Data Analysis and visualization | ✅ Completed in April 2025 |
+| **04** | Assessment for Data Analysis and visualization | ✅ Completed in June 2025 |
