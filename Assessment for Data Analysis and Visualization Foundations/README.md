@@ -1,10 +1,10 @@
 # Assessment for Data Analysis and Visualization Foundations
 
-This directory serves as the comprehensive technical assessment and capstone environment for the Data Analysis and Visualization Foundations track. 
+**Assessment for Data Analysis and Visualization Foundations** serve as the comprehensive technical assessment and capstone environment for the Data Analysis and Visualization Foundations track. 
 
 ---
 
-## 🎯 Core Objectives
+## Core Objectives
 
 *   **Engineering an Analytical Base Table (ABT):** Ingesting a fragmented multi-table schema, building robust database joins, and cleansing structural anomalies to establish a verified, single source of truth dataset.
 *   **Isolating Statistical Drivers via EDA:** Profiling continuous variables, identifying distribution patterns, and applying statistical boundaries to separate normal trends from data anomalies.
@@ -12,13 +12,13 @@ This directory serves as the comprehensive technical assessment and capstone env
 
 ---
 
-## 🛠️ Technical Skills & Competency Matrix
+## Technical Skills & Competency Matrix
 
 *   **Interactive Design (Tableau):** Implementing dynamic context filters, user-driven parameters, and custom tooltips to build highly responsive, clutter-free dashboards.
 *   **Governed Metadata Modeling (IBM Cognos):** Constructing secure data modules, establishing deterministic relationships, and verifying calculation integrity to support standardized corporate auditing.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── README.md                     #Whole project documentation and courseworks
