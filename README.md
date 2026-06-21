@@ -6,7 +6,7 @@ The focus of this repository is to showcase my ability to take raw datasets, cle
 
 ---
 
-## 🛠️ Key Skills, Tools & Technologies
+## Key Skills, Tools & Technologies
 
 ### Data Analysis & Core Skills
 * **Exploratory Data Analysis (EDA):** Identifying trends, tracking distributions, and uncovering correlations.
@@ -24,7 +24,7 @@ The focus of this repository is to showcase my ability to take raw datasets, cle
 
 ---
 
-## 📂 Curriculum & Repository Structure
+## Curriculum & Repository Structure
 
 | # | Course Module | Status |
 | :--- | :--- | :---: |
