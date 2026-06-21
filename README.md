@@ -1,58 +1,34 @@
-# Data Analysis and Visualization Specialization Foundation
+# Data Analysis and Visualization Foundations
 
-## Professional Certificate
-The Data Analysis and Visualization Specialization Foundation is an online course program that helps the learners to enhance the data science career role. The learners know how to analyze data and to make data visualizations and to make interactive dashboards. There are 4 chapters in this online course program. 
+Welcome to my foundational repository for data analysis, business intelligence, and visualization. This project serves as a core pillar of my technical portfolio, documenting my hands-on journey through data manipulation, statistical plotting, and executive-level dashboard creation.
 
-## Course Topics 
+The focus of this repository is to showcase my ability to take raw datasets, clean them using programmatic workflows, and translate complex data points into actionable, visually compelling insights using both code-based tools and enterprise BI platforms.
 
-- [Introduction to Data Analystics](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Introduction%20to%20Data%20Analytics)
+---
 
-- [Excel Basics for Data Analysis](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Excel%20Basics%20for%20Data%20Analysis)
+## 🛠️ Key Skills, Tools & Technologies
 
-- [Data Visualization and Dashboards with Excel and Cognos](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
+### Data Analysis & Core Skills
+* **Exploratory Data Analysis (EDA):** Identifying trends, tracking distributions, and uncovering correlations.
+* **Data Cleansing & Wrangling:** Handling missing values, filtering data, and restructuring datasets for analysis.
+* **Business Intelligence (BI):** Designing interactive executive dashboards, defining data relationships, and publishing automated reports.
 
-- [Assessment for Data Analysis and Visualization Foundations](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Assessment%20for%20Data%20Analysis%20and%20Visualization%20Foundations)
+### Enterprise BI & Visualization Platforms
+* **Tableau:** Building interactive dashboards, story points, and performing rapid ad-hoc self-service visual discovery using advanced calculated fields.
+* **IBM Cognos Analytics:** Developing structured, enterprise-grade data modules, standardizing corporate reports, and utilizing built-in AI insights for data exploration.
 
-## Key Skills
-- Data Presentation
+### Languages & Core Tools
+* **Python:** Core scripting for automation, data wrangling (Pandas, NumPy), and statistical plotting (Seaborn, Matplotlib).
+* **SQL:** Querying, filtering, and joining data from relational databases to feed visualizations.
+* **Microsoft Excel:** Advanced formulas, pivot tables, and initial data profiling.
 
-- Interactive Data Visualization
+---
 
-- Looker Studio (Software)
+## 📂 Curriculum & Repository Structure
 
-- Tableau
-
-- Data Cleansing 
-
-- Data Analysis
-
-- Big Data
-
-- Statistical Analysis
-
-- Scatter Plots
-
-- Data Visualization
-
-- Statistical Visualization
-
-- Excel Formulas
-
-- IBM Cognos Analytics
-
-- Data Storytelling
-
-- Spreadsheet Software
-
-- Analytical Skills
-
-- Data Visualization Software
-
-## Tools
-- Dashboard
-
-- Tree Maps
-
-- Microosft Excel
-
-- Apache Hadoop
+| # | Course Module | Status |
+| :--- | :--- | :---: |
+| **01** | Introduction to Data Analytics | ✅ Completed in March 2025 |
+| **02** | Excel Basics for Data Analysis | ✅ Completed in March 2025 |
+| **03** | Data Visualization & Dashboards with Excel & Cognos | ✅ Completed in April 2025 |
+| **04** | Assessment for Data Analysis and visualization | ✅ Completed in April 2025 |
