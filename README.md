@@ -1,34 +1,55 @@
 # Data Analysis and Visualization Foundations
 
-Welcome to my foundational repository for data analysis, business intelligence, and visualization. This project serves as a core pillar of my technical portfolio, documenting my hands-on journey through data manipulation, statistical plotting, and executive-level dashboard creation.
-
-The focus of this repository is to showcase my ability to take raw datasets, clean them using programmatic workflows, and translate complex data points into actionable, visually compelling insights using both code-based tools and enterprise BI platforms.
+A comprehensive portfolio repository demonstrating foundational principles of data visualization, dashboard design, and analytical thinking. This specialization focuses on transforming raw data into clear, actionable visual narratives.
 
 ---
 
-## Key Skills, Tools & Technologies
+## 📊 **Core Skills**
 
-### Data Analysis & Core Skills
-* **Exploratory Data Analysis (EDA):** Identifying trends, tracking distributions, and uncovering correlations.
-* **Data Cleansing & Wrangling:** Handling missing values, filtering data, and restructuring datasets for analysis.
-* **Business Intelligence (BI):** Designing interactive executive dashboards, defining data relationships, and publishing automated reports.
-
-### Enterprise BI & Visualization Platforms
-* **Tableau:** Building interactive dashboards, story points, and performing rapid ad-hoc self-service visual discovery using advanced calculated fields.
-* **IBM Cognos Analytics:** Developing structured, enterprise-grade data modules, standardizing corporate reports, and utilizing built-in AI insights for data exploration.
-
-### Languages & Core Tools
-* **Python:** Core scripting for automation, data wrangling (Pandas, NumPy), and statistical plotting (Seaborn, Matplotlib).
-* **SQL:** Querying, filtering, and joining data from relational databases to feed visualizations.
-* **Microsoft Excel:** Advanced formulas, pivot tables, and initial data profiling.
+* **Data Visualization Design:** Chart selection, visual encoding, design best practices, and accessibility
+* **Dashboard & BI Development:** Building interactive dashboards with operational insights
+* **Exploratory Data Analysis:** Pattern recognition, trend analysis, and outlier detection
+* **Stakeholder Communication:** Presenting data insights with clarity and impact
+* **Visualization Tools:** Excel, IBM Cognos, Tableau, and Python-based libraries
 
 ---
 
-## Curriculum & Repository Structure
+## 🛠️ **Tools & Technologies**
+
+* **Languages:** Python, Excel, SQL
+* **Visualization Tools:** Matplotlib, Seaborn, Plotly, Tableau, IBM Cognos Analytics
+* **Data Processing:** Pandas, NumPy
+* **Environment:** Jupyter Notebooks, Excel, Tableau Public, Cognos Analytics
+
+---
+
+## 📁 **Repository Structure**
 
 | # | Course Module | Status |
-| :--- | :--- | :---: |
-| **01** | Introduction to Data Analytics | ✅ Completed in March 2025 |
-| **02** | Excel Basics for Data Analysis | ✅ Completed in March 2025 |
-| **03** | Data Visualization & Dashboards with Excel & Cognos | ✅ Completed in April 2025 |
-| **04** | Assessment for Data Analysis and visualization | ✅ Completed in June 2025 |
+| :--- | :--- | :--- |
+| **01** | What is Data Visualization? | ✅ Completed in June 2025 |
+| **02** | Visualizing Data with Python | ✅ Completed in June 2025 |
+| **03** | Dashboard and Reporting | ✅ Completed in June 2025 |
+
+---
+
+## 🎯 **Key Learnings**
+
+✅ **Visual Design Principles:** Understanding when to use bar charts, line plots, heatmaps, and other visualization types  
+✅ **Dashboard Development:** Creating interactive, user-focused dashboards for business intelligence  
+✅ **Python Visualization:** Building publication-quality plots with Matplotlib and Seaborn  
+✅ **BI Tool Mastery:** Designing reports in Tableau and IBM Cognos  
+✅ **Data-Driven Storytelling:** Communicating insights through visual narratives  
+
+---
+
+## 📚 **Notable Projects**
+
+- **[Sales and Service Dashboard](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** — Interactive dashboards with Excel & Cognos
+- **[Assessment Dashboard](./Assessment%20for%20Data%20Analysis%20and%20Visualization%20Foundations)** — Capstone project demonstrating EDA and visualization mastery
+
+---
+
+**Repository Last Updated:** June 2025  
+**Specialization Completed:** June 2025  
+**Certificate:** [Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/30B3SLSBRWZR)
