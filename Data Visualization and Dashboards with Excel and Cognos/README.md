@@ -1,7 +1,7 @@
 # Data Visualization and Dashboards with Excel and Cognos
 ## Sales and Services Dashboard
 
-**Completed:** March 2025 | **IBM Data Analyst Professional Certificate**
+**Completed:** March 2025 | **Data Analysis and Visualization Foundations**
 
 ---
 
@@ -64,4 +64,4 @@ The dashboard leverages real-world operational datasets spanning:
 ## 🔗 Link
 - **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SaleandDashboardServices/Service)
 - **Repository:** [Github](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
-- **Certification:** IBM Data Analyst Professional Certificate (Coursera)
+- **Certification:** Data Analysis and Visualization Foundations (Coursera)
