@@ -2,7 +2,6 @@
 ## Montgomery Fleet Equipment Inventory FA
 
 **Completed:** March 2025 | **Data Analysis and Visualization Foundations**
-
 ---
 
 ## 📊 Course Overview
@@ -29,6 +28,13 @@ The capstone project for this course involves analyzing a real-world business da
   * Formulas & Advanced Functions (VLOOKUP, INDEX, MATCH, IF/IFS, COUNTIF)
   * Data Aggregation & Analysis (Pivot Tables, Slicers)
   * Visualization (Combo Charts, Bar Charts, Line Charts)
+ 
+ | Category | Tools |
+|----------|-------|
+| **Software** | Microsoft Excel / Excel for the Web |
+| **Formulas & Advanced Functions** | VLOOKUP, INDEX, MATCH, IF/IFS, COUNTIF |
+| **Data Aggregation & Analysis** | Pivot Tables, Slicers |
+| **Visualization** | Combo Charts, Bar Charts, Line Charts |
 
 ---
  
@@ -63,5 +69,5 @@ The data used in this project is provided by IBM Skills Network as part of the p
 
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Excel%20Basics%20for%20Data%20Analysis)
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel%20Basics%20for%20Data%20Analysis)
 - **Certification:** Data Analysis and Visualization Foundations (Coursera)
