@@ -27,9 +27,10 @@ A comprehensive portfolio repository demonstrating foundational principles of da
 
 | # | Course Module | Status |
 | :--- | :--- | :--- |
-| **01** | What is Data Visualization? | ✅ Completed in June 2025 |
-| **02** | Visualizing Data with Python | ✅ Completed in June 2025 |
-| **03** | Dashboard and Reporting | ✅ Completed in June 2025 |
+| **01** | Introduction to Data Analytics | ✅ Completed in March 2025 |
+| **02** | Excel Basics for Data Analysis | ✅ Completed in April 2025 |
+| **03** | Data Visualization and Dashboards with Excel and Cognos | ✅ Completed in April 2025 |
+| **03** | Assessment for Data Analysis and Visualization Foundations | ✅ Completed in June 2025 |
 
 ---
 
