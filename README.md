@@ -46,7 +46,6 @@ A comprehensive portfolio repository demonstrating foundational principles of da
 ## 📚 **Notable Projects**
 
 - **[Sales and Service Dashboard](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** — Interactive dashboards with Excel & Cognos
-- **[Assessment Dashboard](./Assessment%20for%20Data%20Analysis%20and%20Visualization%20Foundations)** — Capstone project demonstrating EDA and visualization mastery
 
 ---
 
