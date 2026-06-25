@@ -31,3 +31,6 @@ The dataset utilized for this assessment mimics real-world transactional/operati
 - **Analytical Storytelling** - Translating granular raw data numbers into strategic high-level bullet points.
 
 ## 🔗 Link
+
+- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel%20Basics%20for%20Data%20Analysis)
+- **Certification:** Data Analysis and Visualization Foundations (Coursera)
