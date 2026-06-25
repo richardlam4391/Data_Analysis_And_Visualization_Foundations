@@ -6,9 +6,11 @@
 ---
 
 ## 📊 Course Overview
+
 This project focuses on converting raw operational, sales, customer satisfaction, and multi-region data into polished, interactive analytical dashboards. The course demonstrates practical proficiency in choosing appropriate visual communication elements and conveying data-driven stories across spreadsheet and enterprise business intelligence (BI) software platforms.
 
 ### Primary Deliverable
+
 **Interactive Tableau Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SaleandDashboardServices/Service)
 
 ---
@@ -37,6 +39,7 @@ This project focuses on converting raw operational, sales, customer satisfaction
 ## 📁 Project Structure
 
 ### Deliverables
+
 - `Sale and Dashboard Services Tableau.pdf` — Dashboard documentation
 - Cleaned Excel exports — Spreadsheet documentation
 - Dashboard exports (PNG files)
@@ -51,6 +54,7 @@ The dashboard leverages real-world operational datasets spanning:
 ---
 
 ## 💡 Key Skills Demonstrated
+
 - **Data Cleaning & Wrangling** - Using built-in spreadsheet functions to cross-reference tables and normalize operational records.
 - **Interactive Interface Construction** - Developing automated linkages, dynamic slicers, unified filtering cards, and fluid cross-navigation tabs.
 - **Focal Reporting** - Creating high-impact Key Performance Indicator (KPI) blocks to present business indicators immediately to decision-makers.
@@ -58,6 +62,7 @@ The dashboard leverages real-world operational datasets spanning:
 ---
 
 ## 📈 Visualization Highlights
+
 - **Advanced Chart Varieties** - Utilization of specialized representations, including Tree Maps, Sunburst charts, and multi-axis Combo charts.
 - **Geospatial Tracking** - Implementation of interactive map visualizations to examine operational attributes by territory.
 - **Text & Perception Analytics** - Integrating qualitative Word Clouds alongside descriptive bar markers to quantify product sentiment.
@@ -65,6 +70,7 @@ The dashboard leverages real-world operational datasets spanning:
 ---
 
 ## 🔗 Link
+
 - **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SaleandDashboardServices/Service)
 - **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
 - **Certification:** Data Analysis and Visualization Foundations (Coursera)
