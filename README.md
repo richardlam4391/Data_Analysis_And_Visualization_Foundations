@@ -64,4 +64,4 @@ A comprehensive portfolio repository demonstrating foundational principles of da
 
 **Program Duration:** 1 months
 
-For more information about this program, visit [Data Analysis and Visualization Foundations](https://www.coursera.org/specializations/data-analysis-visualization-foundations).
+For more information about this program, visit [Data Analysis and Visualization Foundations on Coursera](https://www.coursera.org/specializations/data-analysis-visualization-foundations).
