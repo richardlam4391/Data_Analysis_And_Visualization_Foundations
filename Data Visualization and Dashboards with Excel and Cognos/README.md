@@ -40,9 +40,10 @@ This project focuses on converting raw operational, sales, customer satisfaction
 
 ### Deliverables
 
+- .csv files - Source and processed datasets
 - `Sale and Dashboard Services Tableau.pdf` — Dashboard documentation
-- Cleaned Excel exports — Spreadsheet documentation
-- Dashboard exports (PNG files)
+- Cleaned Excel exports — Spreadsheet documentation & workbooks
+- Dashboard exports (PNG files) -Visualizations and dashboard screenshots
 
 ## 📊 Data Source
 
