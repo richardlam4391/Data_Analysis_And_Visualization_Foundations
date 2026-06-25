@@ -20,7 +20,7 @@ This project serves as a foundational exploration into the field of data analyti
 ## 🛠 Technical Stack & Ecosystem
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Core Paradigms** | Structured, Semi-Structured, and Unstructured Data Architectures |
 | **Data Integration Methodologies** | ETL (Extract, Transform, Load) and ELT Pipelines |
 | **Big Data Framework Knowledge** | Apache Hadoop (HDFS), Apache Hive, Apache Spark |
