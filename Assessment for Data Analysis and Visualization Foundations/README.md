@@ -32,5 +32,5 @@ The dataset utilized for this assessment mimics real-world transactional/operati
 
 ## 🔗 Link
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel%20Basics%20for%20Data%20Analysis)
+- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Assessment%20for%20Data%20Analysis%20and%20Visualization%20Foundations)
 - **Certification:** Data Analysis and Visualization Foundations (Coursera)
