@@ -49,6 +49,18 @@ A comprehensive portfolio repository demonstrating foundational principles of da
 
 ---
 
+## 🎓 Certification
+
+✅ [Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/specialization/30B3SLSBRWZR) — June 2025
+
+---
+
 **Repository Last Updated:** June 2025  
+
 **Specialization Completed:** June 2025  
-**Certificate:** [Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/30B3SLSBRWZR)
+
+**Total Courses:** 4
+
+**Program Duration:** 1 months
+
+For more information about this program, visit [Data Analysis and Visualization Foundations](https://www.coursera.org/specializations/data-analysis-visualization-foundations).
