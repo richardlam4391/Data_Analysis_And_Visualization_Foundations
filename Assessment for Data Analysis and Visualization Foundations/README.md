@@ -10,7 +10,7 @@ This project serves as the final capstone assessment for the *Data Analysis and 
 ## 🛠️ Technical Stack
 
 | Category | Tools |
-|----------|-------|
+| :--- | :--- |
 | **Data Manipulation & Analysis** | Microsoft Excel / IBM Cognos (e.g., Pivot Tables, VLOOKUP/XLOOKUP, IF statements, Data Cleaning Wizards), Tableau |
 | **Data Visualization** | Microsoft Excel Charts / IBM Cognos Dashboards, Tableau |
 | **Documentation & Version Control** | Git, GitHub |
