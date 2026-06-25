@@ -1,24 +1,33 @@
 # Assessment for Data Analysis and Visualization Foundations
 
-**Assessment for Data Analysis and Visualization Foundations** serve as the comprehensive technical assessment and capstone environment for the Data Analysis and Visualization Foundations track. 
+**Completed:** June 2025 | **Data Analysis and Visualization Foundations** 
+
+## 📊 Course Overview
+
+This project serves as the final capstone assessment for the *Data Analysis and Visualization Foundations* module. The objective of this course was to establish a strong foundational baseline in extracting, wrangling, analyzing, and visualizing data to drive actionable business insights. Through practical, hands-on scenarios, this assessment validates proficiency in using spreadsheet tools and foundational business intelligence practices to clean messy datasets and build compelling visual narratives.
+
+
+## 🛠️ Technical Stack
+
+| Category | Tools |
+|----------|-------|
+| **Data Manipulation & Analysis** | Microsoft Excel / IBM Cognos (e.g., Pivot Tables, VLOOKUP/XLOOKUP, IF statements, Data Cleaning Wizards), Tableau |
+| **Data Visualization** | Microsoft Excel Charts / IBM Cognos Dashboards, Tableau |
+| **Documentation & Version Control** | Git, GitHub |
 
 ---
 
-## Core Objectives
+## 📊 Data Source
 
-*   **Engineering an Analytical Base Table (ABT):** Ingesting a fragmented multi-table schema, building robust database joins, and cleansing structural anomalies to establish a verified, single source of truth dataset.
-*   **Isolating Statistical Drivers via EDA:** Profiling continuous variables, identifying distribution patterns, and applying statistical boundaries to separate normal trends from data anomalies.
-*   **Architecting Executive Dashboards:** Designing highly scannable, interactive dashboards that align operational metrics with high-level business KPIs, allowing stakeholders to self-serve insights instantly.
+The dataset utilized for this assessment mimics real-world transactional/operational business records. It includes comprehensive data attributes such as customer demographics, transaction dates, product categories, revenue, margins, and regional identifiers, allowing for multi-dimensional business analysis.
 
 ---
 
-## Technical Skills & Competency Matrix
+## 💡 Key Skills Demonstrated
 
-*   **Interactive Design (Tableau):** Implementing dynamic context filters, user-driven parameters, and custom tooltips to build highly responsive, clutter-free dashboards.
-*   **Governed Metadata Modeling (IBM Cognos):** Constructing secure data modules, establishing deterministic relationships, and verifying calculation integrity to support standardized corporate auditing.
+- **Data Hygiene & Wrangling** - Removing duplicate records, handling missing/null values, standardizing formatting, and restructuring data arrays for downstream analysis.
+- **Descriptive Statistical Analysis** - Utilizing aggregate functions (SUM, AVERAGE, COUNTIFS) and pivot tables to isolate variance, distributions, and trends.
+- **Business Intelligence Dashboarding** - Constructing clear, non-cluttered visualizations tailored for executive decision-making.
+- **Analytical Storytelling** - Translating granular raw data numbers into strategic high-level bullet points.
 
----
-
-## Repository Structure
-```text
-└── README.md                                               # Whole project documentation and courseworks
+## 🔗 Link
