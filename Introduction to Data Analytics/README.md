@@ -1,5 +1,7 @@
 # Introduction to Data Analytics
 
+---
+
 **Completed:** March 2025 | Data Analysis and Visualization Foundations
 
 ---
