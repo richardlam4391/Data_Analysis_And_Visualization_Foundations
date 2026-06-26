@@ -1,5 +1,7 @@
 # Data Analysis and Visualization Foundations
 
+---
+
 A comprehensive portfolio repository demonstrating foundational principles of data visualization, dashboard design, and analytical thinking. This specialization focuses on transforming raw data into clear, actionable visual narratives.
 
 ---
