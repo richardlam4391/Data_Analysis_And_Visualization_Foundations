@@ -1,6 +1,8 @@
 # Excel Basics for Data Analysis
 ## Montgomery Fleet Equipment Inventory FA
 
+---
+
 **Completed:** March 2025 | **Data Analysis and Visualization Foundations**
 
 ---
