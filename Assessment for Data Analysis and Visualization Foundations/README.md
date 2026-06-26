@@ -1,6 +1,10 @@
 # Assessment for Data Analysis and Visualization Foundations
 
+---
+
 **Completed:** June 2025 | **Data Analysis and Visualization Foundations** 
+
+---
 
 ## 📊 Course Overview
 
