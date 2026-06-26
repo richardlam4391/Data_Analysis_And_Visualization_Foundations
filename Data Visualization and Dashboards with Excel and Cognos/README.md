@@ -1,6 +1,8 @@
 # Data Visualization and Dashboards with Excel and Cognos
 ## Sales and Services Dashboard
 
+---
+
 **Completed:** April 2025 | **Data Analysis and Visualization Foundations**
 
 ---
