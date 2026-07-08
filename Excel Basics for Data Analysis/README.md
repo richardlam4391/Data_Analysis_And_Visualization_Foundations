@@ -72,5 +72,5 @@ The data used in this project is provided by IBM Skills Network as part of the p
 
 ## 🔗 Links
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel%20Basics%20for%20Data%20Analysis)
+- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Excel%20Basics%20for%20Data%20Analysis)
 - **Certification:** Data Analysis and Visualization Foundations (Coursera)
