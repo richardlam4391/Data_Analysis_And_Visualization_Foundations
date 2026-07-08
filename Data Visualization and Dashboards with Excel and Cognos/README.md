@@ -78,5 +78,5 @@ The dashboard leverages real-world operational datasets spanning:
 ## 🔗 Link
 
 - **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SaleandDashboardServices/Service)
-- **Repository:** [GitHub](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
+- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
 - **Certification:** Data Analysis and Visualization Foundations (Coursera)
