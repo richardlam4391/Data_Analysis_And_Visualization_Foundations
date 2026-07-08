@@ -23,7 +23,7 @@ This project serves as the final capstone assessment for the *Data Analysis and 
 
 ## 📊 Data Source
 
-The dataset utilized for this assessment mimics real-world transactional/operational business records. It includes comprehensive data attributes such as customer demographics, transaction dates, product categories, revenue, margins, and regional identifiers, allowing for multi-dimensional business analysis.
+- The dataset utilized for this assessment mimics real-world transactional/operational business records. It includes comprehensive data attributes such as customer demographics, transaction dates, product categories, revenue, margins, and regional identifiers, allowing for multi-dimensional business analysis.
 
 ---
 
