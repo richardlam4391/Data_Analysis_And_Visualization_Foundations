@@ -8,20 +8,20 @@ A comprehensive portfolio repository demonstrating foundational principles of da
 
 ## 📊 **Core Skills**
 
-* **Data Visualization Design:** Chart selection, visual encoding, design best practices, and accessibility
-* **Dashboard & BI Development:** Building interactive dashboards with operational insights
-* **Exploratory Data Analysis:** Pattern recognition, trend analysis, and outlier detection
-* **Stakeholder Communication:** Presenting data insights with clarity and impact
-* **Visualization Tools:** Excel, IBM Cognos, Tableau, and Python-based libraries
+- **Data Visualization Design:** Chart selection, visual encoding, design best practices, and accessibility
+- **Dashboard & BI Development:** Building interactive dashboards with operational insights
+- **Exploratory Data Analysis:** Pattern recognition, trend analysis, and outlier detection
+- **Stakeholder Communication:** Presenting data insights with clarity and impact
+- **Visualization Tools:** Excel, IBM Cognos, Tableau, and Python-based libraries
 
 ---
 
 ## 🛠️ **Tools & Technologies**
 
-* **Languages:** Python, Excel, SQL
-* **Visualization Tools:** Matplotlib, Seaborn, Plotly, Tableau, IBM Cognos Analytics
-* **Data Processing:** Pandas, NumPy
-* **Environment:** Jupyter Notebooks, Excel, Tableau Public, Cognos Analytics
+- **Languages:** Python, Excel, SQL
+- **Visualization Tools:** Matplotlib, Seaborn, Plotly, Tableau, IBM Cognos Analytics
+- **Data Processing:** Pandas, NumPy
+- **Environment:** Jupyter Notebooks, Excel, Tableau Public, Cognos Analytics
 
 ---
 
@@ -38,11 +38,11 @@ A comprehensive portfolio repository demonstrating foundational principles of da
 
 ## 🎯 **Key Learnings**
 
-✅ **Visual Design Principles:** Understanding when to use bar charts, line plots, heatmaps, and other visualization types  
-✅ **Dashboard Development:** Creating interactive, user-focused dashboards for business intelligence  
-✅ **Python Visualization:** Building publication-quality plots with Matplotlib and Seaborn  
-✅ **BI Tool Mastery:** Designing reports in Tableau and IBM Cognos  
-✅ **Data-Driven Storytelling:** Communicating insights through visual narratives  
+- **Visual Design Principles:** Understanding when to use bar charts, line plots, heatmaps, and other visualization types  
+- **Dashboard Development:** Creating interactive, user-focused dashboards for business intelligence  
+- **Python Visualization:** Building publication-quality plots with Matplotlib and Seaborn  
+- **BI Tool Mastery:** Designing reports in Tableau and IBM Cognos  
+- **Data-Driven Storytelling:** Communicating insights through visual narratives  
 
 ---
 
@@ -58,12 +58,9 @@ A comprehensive portfolio repository demonstrating foundational principles of da
 
 ---
 
-**Repository Last Updated:** June 2025  
-
-**Specialization Completed:** June 2025  
-
-**Total Courses:** 4
-
-**Program Duration:** 1 months
+- **Repository Last Updated:** June 2025  
+- **Specialization Completed:** June 2025  
+- **Total Courses:** 4
+- **Program Duration:** 1 months
 
 For more information about this program, visit [Data Analysis and Visualization Foundations on Coursera](https://www.coursera.org/specializations/data-analysis-visualization-foundations).
