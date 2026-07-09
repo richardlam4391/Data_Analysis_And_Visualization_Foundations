@@ -37,4 +37,4 @@ This project serves as the final capstone assessment for the *Data Analysis and 
 ## 🔗 Link
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Assessment%20for%20Data%20Analysis%20and%20Visualization%20Foundations)
-* **Certification:** Data Analysis and Visualization Foundations (Coursera)
+* **Certification:** [Data Analysis and Visualization Foundations (Coursera)](https://www.coursera.org/account/accomplishments/verify/QYM957UWSOUJ)
