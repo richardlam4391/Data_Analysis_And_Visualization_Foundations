@@ -10,6 +10,7 @@
 
 This project serves as the final capstone assessment for the *Data Analysis and Visualization Foundations* module. The objective of this course was to establish a strong foundational baseline in extracting, wrangling, analyzing, and visualizing data to drive actionable business insights. Through practical, hands-on scenarios, this assessment validates proficiency in using spreadsheet tools and foundational business intelligence practices to clean messy datasets and build compelling visual narratives.
 
+---
 
 ## 🛠️ Technical Stack
 
@@ -33,6 +34,8 @@ This project serves as the final capstone assessment for the *Data Analysis and 
 * **Descriptive Statistical Analysis** - Utilizing aggregate functions (SUM, AVERAGE, COUNTIFS) and pivot tables to isolate variance, distributions, and trends.
 * **Business Intelligence Dashboarding** - Constructing clear, non-cluttered visualizations tailored for executive decision-making.
 * **Analytical Storytelling** - Translating granular raw data numbers into strategic high-level bullet points.
+
+---
 
 ## 🔗 Link
 
