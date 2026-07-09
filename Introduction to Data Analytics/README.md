@@ -47,4 +47,4 @@ This project serves as a foundational exploration into the field of data analyti
 ## 🔗 Link 
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Introduction%20to%20Data%20Analytics)
-* **Certification:** Data Analysis and Visualization Foundations (Coursera)
+* **Certification:** [Data Analysis and Visualization Foundations (Coursera)](https://www.coursera.org/account/accomplishments/verify/5SI76EF9R2VB) - March 2025
