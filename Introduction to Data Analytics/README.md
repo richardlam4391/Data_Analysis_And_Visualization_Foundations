@@ -30,10 +30,14 @@ This project serves as a foundational exploration into the field of data analyti
 | **Big Data Framework Knowledge** | Apache Hadoop (HDFS), Apache Hive, Apache Spark |
 | **Storage Frameworks** | Relational Databases (SQL), Cloud Data Warehouses, Data Lakes |
 
+---
+
 ## 📊 Data Sources
 
 * **Data Formats Encountered** - Worked conceptually with various standard formats including Flat Files (CSV, TSV), Structured Data (SQL tables), Semi-Structured Data (JSON, XML), and live feeds streamed via Web APIs or harvested through Web Scraping techniques.
 * **Project Context** Leveraged simulated cross-industry operational and transactional records to model authentic business challenges.
+
+---
 
 ## 💡 Key Skills Demonstrated
 
@@ -41,10 +45,14 @@ This project serves as a foundational exploration into the field of data analyti
 * **Data Quality Assessment** - Identifying common data anomalies, missing values, duplicates, and structural discrepancies during the gathering and wrangling phase.
 * **Strategic Problem Formulation** - Transforming raw business questions into structured analytical data workflows.
 
+---
+
 ## 📈 Visualization & Communication Highlights
 
 * Analyzed the importance of choosing the correct visualization format (e.g., Line charts for temporal trends, Bar charts for categorical comparisons, Scatter plots for relationships).
 * Emphasized storytelling with data by structuring dashboards to address specific stakeholder KPIs, effectively shifting raw data metrics into strategic, actionable business summaries.
+
+---
 
 ## 🔗 Link 
 
