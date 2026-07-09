@@ -19,9 +19,9 @@ This project focuses on converting raw operational, sales, customer satisfaction
 
 ## 🎯 Key Findings
 
-- **Integrated Regional Performance** - Successfully linked separate operational and multi-region commercial datasets to surface comprehensive trends in performance.
-- **Customer Loyalty & Service Trends** - Derived insights by tracking customer satisfaction alongside product sentiment to isolate variables influencing brand loyalty.
-- **Strategic Visual Insights** - Translated abstract data matrices into actionable visual trends, such as tracking product recalls against daily automotive sales metrics.
+* **Integrated Regional Performance** - Successfully linked separate operational and multi-region commercial datasets to surface comprehensive trends in performance.
+* **Customer Loyalty & Service Trends** - Derived insights by tracking customer satisfaction alongside product sentiment to isolate variables influencing brand loyalty.
+* **Strategic Visual Insights** - Translated abstract data matrices into actionable visual trends, such as tracking product recalls against daily automotive sales metrics.
 
 1) Sales Dashboard
 ![Sales (2).png](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/blob/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos/Sales%20(2).png)
@@ -45,38 +45,38 @@ This project focuses on converting raw operational, sales, customer satisfaction
 
 ### Deliverables
 
-- .csv files - Source and processed datasets
-- `Sale and Dashboard Services Tableau.pdf` — Dashboard documentation
-- Cleaned Excel exports — Spreadsheet documentation & workbooks
-- Dashboard exports (PNG files) -Visualizations and dashboard screenshots
+* .csv files - Source and processed datasets
+* `Sale and Dashboard Services Tableau.pdf` — Dashboard documentation
+* Cleaned Excel exports — Spreadsheet documentation & workbooks
+* Dashboard exports (PNG files) -Visualizations and dashboard screenshots
 
 ## 📊 Data Source
 
 The dashboard leverages real-world operational datasets spanning:
-- Regional automotive sales logs and vehicle model volumes.
-- Dealership fulfillment and daily operations.
-- Customer experience metrics, including loyalty tables, sentiment ratings, and product safety recall distributions.
+* Regional automotive sales logs and vehicle model volumes.
+* Dealership fulfillment and daily operations.
+* Customer experience metrics, including loyalty tables, sentiment ratings, and product safety recall distributions.
 
 ---
 
 ## 💡 Key Skills Demonstrated
 
-- **Data Cleaning & Wrangling** - Using built-in spreadsheet functions to cross-reference tables and normalize operational records.
-- **Interactive Interface Construction** - Developing automated linkages, dynamic slicers, unified filtering cards, and fluid cross-navigation tabs.
-- **Focal Reporting** - Creating high-impact Key Performance Indicator (KPI) blocks to present business indicators immediately to decision-makers.
+* **Data Cleaning & Wrangling** - Using built-in spreadsheet functions to cross-reference tables and normalize operational records.
+* **Interactive Interface Construction** - Developing automated linkages, dynamic slicers, unified filtering cards, and fluid cross-navigation tabs.
+* **Focal Reporting** - Creating high-impact Key Performance Indicator (KPI) blocks to present business indicators immediately to decision-makers.
 
 ---
 
 ## 📈 Visualization Highlights
 
-- **Advanced Chart Varieties** - Utilization of specialized representations, including Tree Maps, Sunburst charts, and multi-axis Combo charts.
-- **Geospatial Tracking** - Implementation of interactive map visualizations to examine operational attributes by territory.
-- **Text & Perception Analytics** - Integrating qualitative Word Clouds alongside descriptive bar markers to quantify product sentiment.
+* **Advanced Chart Varieties** - Utilization of specialized representations, including Tree Maps, Sunburst charts, and multi-axis Combo charts.
+* **Geospatial Tracking** - Implementation of interactive map visualizations to examine operational attributes by territory.
+* **Text & Perception Analytics** - Integrating qualitative Word Clouds alongside descriptive bar markers to quantify product sentiment.
 
 ---
 
 ## 🔗 Link
 
-- **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SaleandDashboardServices/Service)
-- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
-- **Certification:** Data Analysis and Visualization Foundations (Coursera)
+* **Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/richardlam4391/viz/SaleandDashboardServices/Service)
+* **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)
+* **Certification:** Data Analysis and Visualization Foundations (Coursera)
