@@ -19,6 +19,8 @@ This project serves as a foundational exploration into the field of data analyti
 * **Cross-Functional Role Dynamics:** Identified the boundaries and collaboration points between Data Analysts, Data Engineers, Data Scientists, and Business Intelligence (BI) Analytics professionals.
 * **Modern Big Data Infrastructure:** Gained essential insights into the storage and distributed processing frameworks utilized for unstructured and Big Data, specifically Apache Hadoop, Hive, and Apache Spark.
 
+---
+
 ## 🛠 Technical Stack & Ecosystem
 
 | Category | Tools |
