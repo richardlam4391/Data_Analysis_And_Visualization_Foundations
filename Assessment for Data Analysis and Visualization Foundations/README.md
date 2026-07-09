@@ -23,18 +23,18 @@ This project serves as the final capstone assessment for the *Data Analysis and 
 
 ## 📊 Data Source
 
-- The dataset utilized for this assessment mimics real-world transactional/operational business records. It includes comprehensive data attributes such as customer demographics, transaction dates, product categories, revenue, margins, and regional identifiers, allowing for multi-dimensional business analysis.
+* The dataset utilized for this assessment mimics real-world transactional/operational business records. It includes comprehensive data attributes such as customer demographics, transaction dates, product categories, revenue, margins, and regional identifiers, allowing for multi-dimensional business analysis.
 
 ---
 
 ## 💡 Key Skills Demonstrated
 
-- **Data Hygiene & Wrangling** - Removing duplicate records, handling missing/null values, standardizing formatting, and restructuring data arrays for downstream analysis.
-- **Descriptive Statistical Analysis** - Utilizing aggregate functions (SUM, AVERAGE, COUNTIFS) and pivot tables to isolate variance, distributions, and trends.
-- **Business Intelligence Dashboarding** - Constructing clear, non-cluttered visualizations tailored for executive decision-making.
-- **Analytical Storytelling** - Translating granular raw data numbers into strategic high-level bullet points.
+* **Data Hygiene & Wrangling** - Removing duplicate records, handling missing/null values, standardizing formatting, and restructuring data arrays for downstream analysis.
+* **Descriptive Statistical Analysis** - Utilizing aggregate functions (SUM, AVERAGE, COUNTIFS) and pivot tables to isolate variance, distributions, and trends.
+* **Business Intelligence Dashboarding** - Constructing clear, non-cluttered visualizations tailored for executive decision-making.
+* **Analytical Storytelling** - Translating granular raw data numbers into strategic high-level bullet points.
 
 ## 🔗 Link
 
-- **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Assessment%20for%20Data%20Analysis%20and%20Visualization%20Foundations)
-- **Certification:** Data Analysis and Visualization Foundations (Coursera)
+* **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Assessment%20for%20Data%20Analysis%20and%20Visualization%20Foundations)
+* **Certification:** Data Analysis and Visualization Foundations (Coursera)
