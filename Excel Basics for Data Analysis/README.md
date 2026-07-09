@@ -66,4 +66,4 @@ The capstone project for this course involves analyzing a real-world business da
 ## 🔗 Links
 
 * **Repository:** [GitHub](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations/tree/main/Excel%20Basics%20for%20Data%20Analysis)
-* **Certification:** Data Analysis and Visualization Foundations (Coursera)
+* **Certification:** [Data Analysis and Visualization Foundations (Coursera)](https://www.coursera.org/account/accomplishments/verify/IKAHZ1KI5UOC)
